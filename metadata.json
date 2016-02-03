@@ -1,0 +1,5 @@
+{
+    "description": "Displays the kernel version in the panel", 
+    "uuid": "kernel@loomsen", 
+    "name": "Kernel Version"
+}
